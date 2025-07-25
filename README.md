@@ -37,3 +37,9 @@ Build a SaaS-style product landing page with a working sign-up workflow, email v
 - Styling and layout in TailwindCSS was new and slightly hard to debug due to its utility-first nature — preferred traditional CSS for readability.
 - Attempted login flow implementation but skipped due to time and integration complexity.
 
+## NOTE:
+- **FinalProject.rar**: Has 7 files- .env, dashboard.html, dashboard.jpg, Background.jpg, index.html and 2 json files.
+- **FinalProject2.rar**: Has 6 files- thankyou.html, thankyou.jpg, signup.html, verify.html, wall.jpg, server.js
+- And 1 jpg not added in rar files, but added separately.
+- For proper working, download or unzip all files in same folder
+- Dont forget to add your gmail and 16 characters password in .env file.
